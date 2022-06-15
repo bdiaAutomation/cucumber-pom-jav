@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression" parallel="tests">
+    <!--
+      <test name="iPhone SE">
+          <parameter name="platformName" value="ios"></parameter>
+          <parameter name="deviceName" value="iPhone SE"></parameter>
+          <parameter name="udid" value="e4aec930a18e8da3342d7d0ca602bd0771c180bc"></parameter>
+          <classes>
+              <class name="com.bdia.tests.LoginTest"/>
+          </classes>
+      </test>
+
+    <test name="iPhone 8 Test">
+          <parameter name="platformName" value="ios"></parameter>
+          <parameter name="deviceName" value="iPhone 8 Test"></parameter>
+          <parameter name="udid" value="108034c4eea995a629802928934f4b0f2a672eb8"></parameter>
+          <classes>
+              <class name="com.bdia.tests.LoginTest"/>
+          </classes>
+      </test>
+-->
+    <test name="iPhone 13 mini">
+        <parameter name="platformName" value="ios"></parameter>
+        <parameter name="deviceName" value="iPhone 13 mini"></parameter>
+        <parameter name="udid" value="00008110-0006409C3482801E"></parameter>
+        <parameter name="webkitDebugProxyPort" value="10001"></parameter>
+        <parameter name="wdaLocalPort" value="8100"></parameter>
+        <classes>
+            <class name="com.bdia.tests.LoginTest"/>
+        </classes>
+    </test>
+
+    <test name="Iphone X">
+        <parameter name="platformName" value="ios"></parameter>
+        <parameter name="deviceName" value="Iphone X"></parameter>
+        <parameter name="udid" value="eb7696dfde984d2803f14b74276838381e7d96cd"></parameter>
+        <parameter name="webkitDebugProxyPort" value="10002"></parameter>
+        <parameter name="wdaLocalPort" value="8200"></parameter>
+        <classes>
+            <class name="com.bdia.tests.LoginTest"/>
+        </classes>
+    </test>
+
+</suite>

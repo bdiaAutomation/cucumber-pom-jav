@@ -1,0 +1,5 @@
+com/bdia/RunnerTest.class
+com/bdia/tests/LoginTest.class
+com/bdia/tests/account/AccountTest.class
+com/bdia/tests/BaseTest.class
+com/bdia/Steps.class

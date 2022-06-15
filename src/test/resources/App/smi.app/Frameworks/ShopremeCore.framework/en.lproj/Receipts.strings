@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "14.01.2017"; ObjectID = "0mS-3e-B5l"; */
+"0mS-3e-B5l.text" = "14.01.2017";
+
+/* Class = "UILabel"; text = "Artikelliste"; ObjectID = "Fzi-Y6-wWK"; */
+"Fzi-Y6-wWK.text" = "Purchase";
+
+/* Class = "UILabel"; text = "3,00 €"; ObjectID = "Rdf-K9-hIx"; */
+"Rdf-K9-hIx.text" = "3,00 €";
+
+/* Class = "UILabel"; text = "€ 29,59"; ObjectID = "U5u-25-QpW"; */
+"U5u-25-QpW.text" = "€ 29,59";
+
+/* Class = "UILabel"; text = "Heute"; ObjectID = "dtp-2n-Xxz"; */
+"dtp-2n-Xxz.text" = "Today";
+
+/* Class = "UINavigationItem"; title = "Alle Rechnungen"; ObjectID = "eeN-ci-K0P"; */
+"eeN-ci-K0P.title" = "All receipts";
+
+/* Class = "UILabel"; text = "SPAR free from leichte Milch"; ObjectID = "f3d-VL-8Qk"; */
+"f3d-VL-8Qk.text" = "SPAR free from leichte Milch";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "puX-FE-sui"; */
+"puX-FE-sui.title" = " ";
+
+/* Class = "UILabel"; text = "Scanne diesen Barcode an der Kassa"; ObjectID = "r8R-yR-2d5"; */
+"r8R-yR-2d5.text" = "This is your payment confirmation:";
+
+/* Class = "UILabel"; text = "15:41 · 12 Artikel"; ObjectID = "sNl-Ue-hE2"; */
+"sNl-Ue-hE2.text" = "15:41 · 12 Artikel";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "nQR-wv-7W5"; */
+"nQR-wv-7W5.title" = "Title";

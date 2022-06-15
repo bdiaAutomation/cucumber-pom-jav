@@ -1,0 +1,90 @@
+
+/* Class = "UILabel"; text = "Router type"; ObjectID = "0WR-iE-gRc"; */
+"0WR-iE-gRc.text" = "Router type";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "2WJ-nR-Zvb"; */
+"2WJ-nR-Zvb.text" = "Distance";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2uK-6q-w5u"; */
+"2uK-6q-w5u.text" = "Label";
+
+/* Class = "UILabel"; text = "No barcode?"; ObjectID = "6iA-ku-KdU"; */
+"6iA-ku-KdU.text" = "No barcode?";
+
+/* Class = "UIViewController"; title = "Main"; ObjectID = "9pv-A4-QxB"; */
+"9pv-A4-QxB.title" = "Main";
+
+/* Class = "UILabel"; text = "Gamma:"; ObjectID = "AOb-2a-d2v"; */
+"AOb-2a-d2v.text" = "Gamma:";
+
+/* Class = "UITextField"; placeholder = "Filtered regex"; ObjectID = "Dhp-Tk-cGt"; */
+"Dhp-Tk-cGt.placeholder" = "Filtered regex";
+
+/* Class = "UIButton"; normalTitle = "Scan"; ObjectID = "Eeu-eB-mwU"; */
+"Eeu-eB-mwU.normalTitle" = "Scan";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FEN-35-UMI"; */
+"FEN-35-UMI.text" = "Label";
+
+/* Class = "UILabel"; text = "3 frames hochgeladen"; ObjectID = "M86-4Z-Yxh"; */
+"M86-4Z-Yxh.text" = "3 frames hochgeladen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MDO-p3-7VZ"; */
+"MDO-p3-7VZ.text" = "Label";
+
+/* Class = "UIViewController"; title = "Map"; ObjectID = "OgJ-WM-gnS"; */
+"OgJ-WM-gnS.title" = "Map";
+
+/* Class = "UILabel"; text = "Trying to find you..."; ObjectID = "Oqp-bz-xSB"; */
+"Oqp-bz-xSB.text" = "Trying to find you...";
+
+/* Class = "UILabel"; text = "Major:"; ObjectID = "POe-Mt-hx9"; */
+"POe-Mt-hx9.text" = "Major:";
+
+/* Class = "UIButton"; normalTitle = "Kalibrierung neu herunterladen"; ObjectID = "Rdd-hb-u86"; */
+"Rdd-hb-u86.normalTitle" = "Kalibrierung neu herunterladen";
+
+/* Class = "UIButton"; normalTitle = "Markers"; ObjectID = "Vob-Qc-bkK"; */
+"Vob-Qc-bkK.normalTitle" = "Markers";
+
+/* Class = "UILabel"; text = "Minor:"; ObjectID = "ZIy-nW-9Ij"; */
+"ZIy-nW-9Ij.text" = "Minor:";
+
+/* Class = "UILabel"; text = "Any tags matching this regex will be filtered out."; ObjectID = "ZsY-86-2Qx"; */
+"ZsY-86-2Qx.text" = "Any tags matching this regex will be filtered out.";
+
+/* Class = "UILabel"; text = "Pl0:"; ObjectID = "ahK-wy-jkD"; */
+"ahK-wy-jkD.text" = "Pl0:";
+
+/* Class = "UIButton"; normalTitle = "Basket"; ObjectID = "arH-Ol-j9r"; */
+"arH-Ol-j9r.normalTitle" = "Basket";
+
+/* Class = "UILabel"; text = "Automatic detection not working?"; ObjectID = "chd-20-c2I"; */
+"chd-20-c2I.text" = "Automatic detection not working?";
+
+/* Class = "UIButton"; normalTitle = "Diesen Router kalibrieren"; ObjectID = "gSh-p0-h4a"; */
+"gSh-p0-h4a.normalTitle" = "Diesen Router kalibrieren";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hw1-QS-Fjb"; */
+"hw1-QS-Fjb.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Select site"; ObjectID = "lr7-pw-cTE"; */
+"lr7-pw-cTE.normalTitle" = "Select site";
+
+/* Class = "UILabel"; text = "Router name"; ObjectID = "pEx-zc-BwH"; */
+"pEx-zc-BwH.text" = "Router name";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "pYV-sd-af1"; */
+"pYV-sd-af1.title" = "Map";
+
+/* Class = "UILabel"; text = "D0:"; ObjectID = "sDA-M0-NkO"; */
+"sDA-M0-NkO.text" = "D0:";
+
+/* Class = "UILabel"; text = "Floor Confidence:"; ObjectID = "soD-3w-0ma"; */
+"soD-3w-0ma.text" = "Floor Confidence:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u6Q-To-Vlu"; */
+"u6Q-To-Vlu.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xsx-qk-kC4"; */
+"xsx-qk-kC4.text" = "Label";

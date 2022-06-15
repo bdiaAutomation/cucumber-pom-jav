@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Stainzer Milch ist die beste Milch und so"; ObjectID = "7im-wO-XhQ"; */
+"7im-wO-XhQ.text" = "Stainzer Milch ist die beste Milch und so";
+
+/* Class = "UILabel"; text = "Reporting to staff..."; ObjectID = "DEB-OZ-B1t"; */
+"DEB-OZ-B1t.text" = "Reporting to staff...";
+
+/* Class = "UIButton"; normalTitle = "Report out of stock"; ObjectID = "Lbm-8z-KbT"; */
+"Lbm-8z-KbT.normalTitle" = "Report out of stock";
+
+/* Class = "UILabel"; text = "RELATED PRODUCTS"; ObjectID = "O4e-ZM-yEP"; */
+"O4e-ZM-yEP.text" = "RELATED PRODUCTS";
+
+/* Class = "UIButton"; normalTitle = "Merkliste Placeholder"; ObjectID = "QD8-A0-78f"; */
+"QD8-A0-78f.normalTitle" = "Merkliste Placeholder";
+
+/* Class = "UILabel"; text = "DESCRIPTION"; ObjectID = "jOF-Av-tQP"; */
+"jOF-Av-tQP.text" = "DESCRIPTION";
+
+/* Class = "UILabel"; text = "1,10€ · 10m entfernt"; ObjectID = "jpS-Cr-MCc"; */
+"jpS-Cr-MCc.text" = "1,10€ · 10m entfernt";
+
+/* Class = "UILabel"; text = "Reported. Thank you!"; ObjectID = "lrG-OQ-CNG"; */
+"lrG-OQ-CNG.text" = "Reported. Thank you!";
+
+/* Class = "UIButton"; normalTitle = "  Navigate"; ObjectID = "xBN-Ag-6Ln"; */
+"xBN-Ag-6Ln.normalTitle" = "  Navigate";

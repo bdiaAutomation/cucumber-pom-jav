@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-16T17:26:28 CEST" name="Regression" finished-at="2022-06-16T17:30:52 CEST" duration-ms="263761">
+    <groups>
+    </groups>
+    <test started-at="2022-06-16T17:26:28 CEST" name="iPhone 13 mini" finished-at="2022-06-16T17:30:02 CEST" duration-ms="213670">
+      <class name="com.bdia.tests.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.bdia.tests.LoginTest@1ed6388a]" started-at="2022-06-16T17:26:29 CEST" name="setup" finished-at="2022-06-16T17:26:56 CEST" duration-ms="27346" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ios]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[00008110-0006409C3482801E]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[iPhone 13 mini]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="successfullLoginES()[pri:0, instance:com.bdia.tests.LoginTest@1ed6388a]" started-at="2022-06-16T17:26:56 CEST" name="successfullLoginES" finished-at="2022-06-16T17:27:35 CEST" duration-ms="38781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfullLoginES -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.bdia.tests.LoginTest@1ed6388a]" started-at="2022-06-16T17:27:35 CEST" name="teardown" finished-at="2022-06-16T17:27:36 CEST" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.bdia.tests.LoginTest@1ed6388a]" started-at="2022-06-16T17:27:36 CEST" name="setup" finished-at="2022-06-16T17:28:00 CEST" duration-ms="23731" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ios]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[00008110-0006409C3482801E]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[iPhone 13 mini]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="successfullLoginLU()[pri:0, instance:com.bdia.tests.LoginTest@1ed6388a]" started-at="2022-06-16T17:28:00 CEST" name="successfullLoginLU" finished-at="2022-06-16T17:28:55 CEST" duration-ms="55504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfullLoginLU -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.bdia.tests.LoginTest@1ed6388a]" started-at="2022-06-16T17:28:55 CEST" name="teardown" finished-at="2022-06-16T17:28:56 CEST" duration-ms="1058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.bdia.tests.LoginTest@1ed6388a]" started-at="2022-06-16T17:28:56 CEST" name="setup" finished-at="2022-06-16T17:29:18 CEST" duration-ms="22190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ios]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[00008110-0006409C3482801E]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[iPhone 13 mini]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="successfullLoginPL()[pri:0, instance:com.bdia.tests.LoginTest@1ed6388a]" started-at="2022-06-16T17:29:18 CEST" name="successfullLoginPL" finished-at="2022-06-16T17:30:01 CEST" duration-ms="42520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfullLoginPL -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.bdia.tests.LoginTest@1ed6388a]" started-at="2022-06-16T17:30:01 CEST" name="teardown" finished-at="2022-06-16T17:30:02 CEST" duration-ms="1110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.bdia.tests.LoginTest -->
+    </test> <!-- iPhone 13 mini -->
+    <test started-at="2022-06-16T17:26:28 CEST" name="Iphone X" finished-at="2022-06-16T17:30:52 CEST" duration-ms="263761">
+      <class name="com.bdia.tests.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.bdia.tests.LoginTest@3f191845]" started-at="2022-06-16T17:26:29 CEST" name="setup" finished-at="2022-06-16T17:27:07 CEST" duration-ms="38972" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ios]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eb7696dfde984d2803f14b74276838381e7d96cd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Iphone X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10002]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="successfullLoginES()[pri:0, instance:com.bdia.tests.LoginTest@3f191845]" started-at="2022-06-16T17:27:07 CEST" name="successfullLoginES" finished-at="2022-06-16T17:27:53 CEST" duration-ms="45340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfullLoginES -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.bdia.tests.LoginTest@3f191845]" started-at="2022-06-16T17:27:53 CEST" name="teardown" finished-at="2022-06-16T17:27:54 CEST" duration-ms="1058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.bdia.tests.LoginTest@3f191845]" started-at="2022-06-16T17:27:54 CEST" name="setup" finished-at="2022-06-16T17:28:29 CEST" duration-ms="34929" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ios]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eb7696dfde984d2803f14b74276838381e7d96cd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Iphone X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10002]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="successfullLoginLU()[pri:0, instance:com.bdia.tests.LoginTest@3f191845]" started-at="2022-06-16T17:28:29 CEST" name="successfullLoginLU" finished-at="2022-06-16T17:29:22 CEST" duration-ms="53604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfullLoginLU -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.bdia.tests.LoginTest@3f191845]" started-at="2022-06-16T17:29:22 CEST" name="teardown" finished-at="2022-06-16T17:29:24 CEST" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.bdia.tests.LoginTest@3f191845]" started-at="2022-06-16T17:29:24 CEST" name="setup" finished-at="2022-06-16T17:29:59 CEST" duration-ms="35644" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ios]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eb7696dfde984d2803f14b74276838381e7d96cd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Iphone X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10002]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="successfullLoginPL()[pri:0, instance:com.bdia.tests.LoginTest@3f191845]" started-at="2022-06-16T17:29:59 CEST" name="successfullLoginPL" finished-at="2022-06-16T17:30:51 CEST" duration-ms="51799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfullLoginPL -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.bdia.tests.LoginTest@3f191845]" started-at="2022-06-16T17:30:51 CEST" name="teardown" finished-at="2022-06-16T17:30:52 CEST" duration-ms="1101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.bdia.tests.LoginTest -->
+    </test> <!-- Iphone X -->
+  </suite> <!-- Regression -->
+</testng-results>

@@ -2,7 +2,9 @@ package com.bdia.tests;
 
 import com.bdia.utils.DriverManager;
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 
 import java.io.IOException;
@@ -25,7 +27,6 @@ public class BaseTest {
 
        try{
            if(DriverManager.getDriver() != null){
-
                DriverManager.getDriver().quit();
                DriverManager.setDriver(null);
            }
@@ -35,6 +36,8 @@ public class BaseTest {
 
        }
     }
+    
+ 
 
 
 

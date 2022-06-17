@@ -50,10 +50,12 @@ public class CapabilitiesManager {
             caps.setCapability("useNativeCachingStrategy", Boolean.parseBoolean(getProp().getProperty("iOSUseNativeCachingStrategy")));
             caps.setCapability("wdaLocalPort", wdaLocalPort);
             caps.setCapability("webkitDebugProxyPort", webkitDebugProxyPort);
-            caps.setCapability("useNewWDA", Boolean.parseBoolean(getProp().getProperty("iOSUseNewWDA")));
+           // caps.setCapability("useNewWDA", Boolean.parseBoolean(getProp().getProperty("iOSUseNewWDA")));
             caps.setCapability("includeSafariInWebviews", Boolean.parseBoolean(getProp().getProperty("iOSIncludeSafariInWebviews")));
             caps.setCapability("webviewConnectTimeout", Long.parseLong(getProp().getProperty("iOSWebviewConnectTimeout")));
             caps.setCapability("newCommandTimeout", Long.parseLong(getProp().getProperty("iOSNewCommandTimeout")));
+            caps.setCapability(MobileCapabilityType.NO_RESET, false); // Clear App Cache
+           // caps.setCapability(MobileCapabilityType.FULL_RESET, false); // Don't reinstall APP
 
             return caps;
         } catch (Exception e) {

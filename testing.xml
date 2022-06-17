@@ -26,6 +26,8 @@
         <parameter name="udid" value="00008110-0006409C3482801E"></parameter>
         <parameter name="webkitDebugProxyPort" value="10001"></parameter>
         <parameter name="wdaLocalPort" value="8100"></parameter>
+        <parameter name ="country" value="Romania"></parameter>
+        <parameter name="countryLang" value="Română"></parameter>
         <classes>
             <class name="com.bdia.tests.LoginTest"/>
         </classes>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Regression]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="iPhone 13 mini(failed)">
+    <parameter name="webkitDebugProxyPort" value="10001"/>
+    <parameter name="platformName" value="ios"/>
+    <parameter name="udid" value="00008110-0006409C3482801E"/>
+    <parameter name="deviceName" value="iPhone 13 mini"/>
+    <parameter name="wdaLocalPort" value="8100"/>
+    <classes>
+      <class name="com.bdia.tests.LoginTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="successfullLoginLU"/>
+          <include name="successfullLoginES"/>
+          <include name="successfullLoginPL"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.bdia.tests.LoginTest -->
+    </classes>
+  </test> <!-- iPhone 13 mini(failed) -->
+  <test thread-count="5" parallel="tests" name="Iphone X(failed)">
+    <parameter name="webkitDebugProxyPort" value="10002"/>
+    <parameter name="platformName" value="ios"/>
+    <parameter name="udid" value="eb7696dfde984d2803f14b74276838381e7d96cd"/>
+    <parameter name="deviceName" value="Iphone X"/>
+    <parameter name="wdaLocalPort" value="8200"/>
+    <classes>
+      <class name="com.bdia.tests.LoginTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="successfullLoginLU"/>
+          <include name="successfullLoginES"/>
+          <include name="setup"/>
+          <include name="successfullLoginPL"/>
+        </methods>
+      </class> <!-- com.bdia.tests.LoginTest -->
+    </classes>
+  </test> <!-- Iphone X(failed) -->
+</suite> <!-- Failed suite [Regression] -->
